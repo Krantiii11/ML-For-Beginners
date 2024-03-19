@@ -27,7 +27,7 @@ import Quiz from "@/components/Quiz.vue";
 import messages from "@/assets/translations";
 
 export default {
-  name: "App",
+  name: "Application",
   i18n: { messages },
   components: {
     Quiz,
